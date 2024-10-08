@@ -1,4 +1,4 @@
-
+print("hello")
 number = 14
 number /=  7.0
 type_number = type(number)
@@ -22,3 +22,7 @@ print("this unit is:", unit_name) # print variable
 print("The 1st character is:", unit_name[0]) # Access first character using index 0
 print("The 4th character is:", unit_name[3]) # 4th character is of index 4 -1 = 3
 print("The 9th character is:", unit_name[7]) # 9th character is of index 9 -1 = 8
+
+greeting_string= "Welcome to programming unit?! This is level 4 unit :D "
+print(greeting_string)
+print(greeting_string[0:5])
