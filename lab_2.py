@@ -27,6 +27,8 @@ greeting_string= "Welcome to programming unit?! This is level 4 unit :D "
 print(greeting_string)
 print(greeting_string[0:5])
 
-
  
 print("Hello this is a test to prove something")
+print("This is another test")
+x= 45 
+print (x/2)
