@@ -9,11 +9,11 @@ b = 5
 result = a < b
 type_result =type(result)
 print(f"result = {result} and its data type is {type_result}")
- 
+
 x = 15
 x= 43
 print({x})
- 
+
 c = "exampletext"
 c = 23
 print(c)
@@ -26,3 +26,5 @@ print("The 9th character is:", unit_name[7]) # 9th character is of index 9 -1 = 
 greeting_string= "Welcome to programming unit?! This is level 4 unit :D "
 print(greeting_string)
 print(greeting_string[0:5])
+
+print("Hello this is a test to prove something")
