@@ -37,4 +37,8 @@ def multiply(a,b):
     c= a*b 
     #return c 
 
+multiply (4,2)
+#print(multiply(4,2))
+#result = multiply 4,2
+#print(result) def dispay 
 
